@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="esqueceu_a_senha">Esqueceu a senha?</string>
+    <string name="n_o_possui_registro">Não possui registro?</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="registre_se">Registre-se</string>
+    <string name="e_mail">E-mail</string>
+    <string name="todo">TODO</string>
+    <string name="infoposto">InfoPosto</string>
+    <string name="voltar">voltar</string>
+</resources>
